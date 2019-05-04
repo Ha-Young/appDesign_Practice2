@@ -1,0 +1,15 @@
+{
+  "name": "cocoachallenge",
+  "version": "1.0.0",
+  "description": "Coding Challenge from NomadCoder_Cocoa",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "hayeongchoi",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.3",
+    "reset.css": "^2.0.2"
+  }
+}
